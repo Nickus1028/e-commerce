@@ -17,13 +17,13 @@ SCREENSHOT COMING SSON.
 VIDEO COMING SOON.
                       
 ## Installation
-Navigate to the folder containing server.js and run "npm i" in the terminal. 
-Import the schema into your SQL database.
-Run "npm run seed" in your terminal.
-Run "npm start" in your terminal.
+*Navigate to the folder containing server.js and run "npm i" in the terminal. 
+*Import the schema into your SQL database.
+*Run "npm run seed" in your terminal.
+*Run "npm start" in your terminal.
 
 ## Usage
-Query a database of employee names, roles, departments and salary.
+A demonstration of an e-commerce back end.
 
 
 
